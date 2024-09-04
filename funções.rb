@@ -1,5 +1,5 @@
 Funções em Ruby:
-cada linha de codigo que for preciso rodar no terminal do VSCode é só tirar o comentatio
+
 ´´´ 
 nome = "Lus"
 n = 4
