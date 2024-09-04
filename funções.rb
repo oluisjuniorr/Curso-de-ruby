@@ -1,7 +1,7 @@
 Funções em Ruby:
 
 ´´´ 
-nome = "Lus"
+nome = "Luis"
 n = 4
 
 # if nome.eql? ("Luis")
